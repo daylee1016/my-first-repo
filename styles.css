@@ -2,3 +2,13 @@ body {
     background-color:blueviolet;
     color: aliceblue;
 }
+h1 {
+    background-color: black;
+    color:aliceblue;
+}
+main {
+    background-color: white;
+    color:black;
+    width: 70%;
+    margin: 0 auto; /*TRouBLe*/
+}
